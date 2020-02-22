@@ -1,3 +1,4 @@
+/*
 all: deploy
 
 build:
@@ -8,3 +9,4 @@ deploy:
 
 test:
 	pxt test
+*/
