@@ -1,4 +1,4 @@
-> Diese Seite bei [https://taslior.github.io/getmicrophonevalue/](https://taslior.github.io/getmicrophonevalue/) öffnen
+> Diese Seite bei [https://taslior.github.io/pxt-calliope-getmicrophonevalue/](https://taslior.github.io/pxt-calliope-getmicrophonevalue/) öffnen
 
 ## Diese Erweiterung verwenden
 
